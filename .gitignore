@@ -1,0 +1,15 @@
+*.rbxl
+*.rbxlx
+*.lock
+
+# Wally
+Packages/
+ServerPackages/
+DevPackages/
+
+# Rojo
+sourcemap.json
+
+# Misc
+.DS_Store
+*.log

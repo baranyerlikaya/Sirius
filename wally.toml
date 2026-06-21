@@ -1,0 +1,11 @@
+[package]
+name = "baran/sirius"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+
+[server-dependencies]
+
+[dev-dependencies]
